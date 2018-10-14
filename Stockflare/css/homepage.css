@@ -1,0 +1,38 @@
+/* Image styling */
+
+#image_row {
+	margin-top: 8%;
+}
+
+
+#image_col {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+/* Search Box styling */
+
+#search_row {
+	margin-top: 3%;
+}
+
+#search_form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#search_form input {
+	width: 75%;
+	font-size: 17px;
+}
+
+#search_form button {
+	font-size: 17px;
+}
+
+#search_form button:hover {
+	background: #ccc;
+}
